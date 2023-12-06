@@ -21,7 +21,7 @@ There is no clear indicator in the data that a party name is an HOA. Therefore, 
                   'CONDOMINIUM ASSN', "OWNERS' ASSN", "OWNERS' ASSN", 'HOMEWONERS', 'COMMUNITY PROPERTY', 'TOWNHOME ASSOC', 'TOWNHOME ASSN', 'CONDOMINIUM UNIT OWNERS',
                   'HOMEOWNERS ASSOCIATION', 'HOME OWNERS ASSOCIATION', "HOMEOWNERS'S ASSOCIATION"
 
-This produced approximately 10,400 HOA's. But the HOA names needed cleaning due to the different spellings of the same entity, such as: 
+This produced approximately 10,400 HOA's filing more than 50,000 cases, mostly for claim of liens and foreclosures. But the HOA names needed cleaning due to the different spellings of the same entity, such as: 
                   "ABC123 HOMEOWNER'S ASSN", "ABC123 HOA", "ABC 123 HOME OWNERS ASSOCIATION". 
 
 To get the most accurate count of HOA plaintiffs, we used a combination of [OpenRefine](https://openrefine.org/), an open-source data cleaning tool, and manual reviews and checks. This provided a more accurate count of approximately 5,700 HOA's.
@@ -29,7 +29,6 @@ To get the most accurate count of HOA plaintiffs, we used a combination of [Open
 The cleaned name data was then matched with a table containing the type of issue for the case based on the case number and county code. Cases can have multipe issue types. We were primarily intestered in three issue types: claim of lien (CLOL), foreclosure (FORE) and final account/final report (FAFR). In other words, how many HOA's began the process of foreclosure with a lien filing, how many moved to the next stage of filing the foreclosure and how many moved to force the owner out and sale the home.
 
 A case could have been included in all three issue type filings, but was only counted once in each category.  
-
 
 ![HS0GO-hoa-foreclosure-filings](https://github.com/mcclatchy-southeast/hoa-foreclosures/assets/65453792/c8fa9d58-41eb-438d-a934-5779473fc703)
 
