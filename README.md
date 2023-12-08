@@ -30,7 +30,9 @@ To get the most accurate count of HOA plaintiffs, we used a combination of [Open
 
 The cleaned name data was then matched with a table containing the type of issue for the case based on the case number and county code. Cases can have multiple issue types. We were primarily interested in three issue types: claim of lien (CLOL), foreclosure (FORE) and final account/final report (FAFR). In other words, how many HOA's began the process of foreclosure with a lien filing, how many moved to the next stage of filing the foreclosure and how many moved to force the owner out and sale the home.
 
-To get the most accurate count of cases, we counted each case only once in each issue type filing because a case can include all three issue type filings (or other filing types). Multiple cases can also be filed for multiple homeowners for a single property, such as a timeshare condominium.  
+To get the most accurate count of cases, we counted each case only once in each issue type filing because a case can include all three issue type filings (or other filing types). Cases can also be filed for multiple homeowners for a single property or cases can be filed for shared ownership in a timeshare. 
+
+We found approximately 51,000 claim of liens filed by HOAs; approximately 5,500 foreclosure filings; and approximately 600 final account/final report filings, indicating the home was sold or the timeshare owner lost access to the property.
 
 For the analysis, we used [R](https://www.r-project.org/about.html), an open-source statistical software program; Excel; and Google Sheets. 
 
