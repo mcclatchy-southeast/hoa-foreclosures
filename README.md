@@ -14,7 +14,7 @@ In North Carolina, if you're 30 days behind on paying your HOA dues, the associa
 # How we did the analysis
 A public records request to the N.C. Administrative Office of the Courts provided a database of all civil cases filed in North Carolina courts from January, 2018 to June 30, 2023. This includes all civil district, magistrate, superior, estate and special proceeding filings. 
 
-Key elements of the data include the county of court, party names, party role (plaintiff or defendant), issue type (such as claim of lien and foreclosure) and filing date. In some cases, the order result and order amount is listed.
+Key elements of the data include the county of court, party names, party role (plaintiff or defendant), issue type (such as claim of lien and foreclosure) and filing date. In some cases, the order result and order amount was listed.
 
 There is no clear indicator in the data that a party name is an HOA. Therefore, we used the name field to extract cases where the party name matched any of the following terms: <br>
                   'HOA ', ' HOA', 'HOMEOWNERS ASSOC', 'HOMEOWNERS ASSN', 'HOME OWNERS ASSN', 'HOME OWNERS ASSOC', 'PROPERTY OWNERS ASSN', 'PROPERTY OWNERS ASSOC',
@@ -30,12 +30,9 @@ To get the most accurate count of HOA plaintiffs, we used a combination of [Open
 
 The cleaned name data was then matched with a table containing the type of issue for the case based on the case number and county code. Cases can have multipe issue types. We were primarily intestered in three issue types: claim of lien (CLOL), foreclosure (FORE) and final account/final report (FAFR). In other words, how many HOA's began the process of foreclosure with a lien filing, how many moved to the next stage of filing the foreclosure and how many moved to force the owner out and sale the home.
 
-A case could have been included in all three issue type filings, but was only counted once in each category. 
+A case can include all three issue type filings, but was only counted once in each category. Multiple cases can also be filed for multiple homeowners for a single property, such as a timeshare condominium. 
 
-![HS0GO-hoa-foreclosure-filings](https://github.com/mcclatchy-southeast/hoa-foreclosures/assets/65453792/c8fa9d58-41eb-438d-a934-5779473fc703)
-
- 
- 
+For the analysis, we used [R](https://www.r-project.org/about.html), an open-source statistical software program; Excel; and Google Sheets. 
 
 
 
