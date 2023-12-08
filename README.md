@@ -1,11 +1,13 @@
 # HOA Foreclosures
-To investigate Homeowner Associations (HOA) foreclosures in North Carolina, reporters for The Charlotte Observer and The News and Observer used state courts data to examine thousands of foreclosure cases, as well as the paper court files for more than 100 cases in Mecklenburg and Wake counties. The work is the first comprehensive analysis of HOA foreclosures in North Carolina.
+To investigate HOA foreclosures in North Carolina, The Charlotte Observer and The News & Observer conducted a first-of-its-kind analysis of HOA foreclosures in North Carolina.
 
-Reporters also interviewed six people who lost their homes to foreclosure and more than 30 others, including attorneys who represent both HOAs and homeowners. A reporter also observed a foreclosure auction at the Mecklenburg County courthouse.
+News & Observer data reporter David Raynor analyzed a North Carolina Administrative Office of the Courts database of all civil cases from January, 2018 to June, 2023 to identify HOA-related foreclosure filings.
 
-Reporters obtained and analyzed a North Carolina Administrative Office of the Courts database of all civil cases from January, 2018 to June, 2023 to identify HOA-related cases. 
+Charlotte Observer investigative reporter Ames Alexander then reviewed court files in more than 100 foreclosure cases in Mecklenburg and Wake counties to gather more detailed information on each case.
 
-We discovered that 50,000 liens were filed by nearly 6,000 HOAs. In roughly 11 percent of those cases, HOAs ultimately started foreclosure proceedings.
+Alexander interviewed six people who lost their homes to HOA foreclosures and more than 30 others, including attorneys who represent both HOAs and homeowners. And he observed a foreclosure auction at the Mecklenburg County courthouse.
+
+As part of the data analysis, Raynor discovered that 50,000 liens were filed by nearly 6,000 North Carolina HOAs between 2018 and mid 2023. In roughly 11% of those cases, HOAs started foreclosure proceedings. More details on the analysis can be found here.
 
 In North Carolina, if you're 30 days behind on paying your HOA dues, the association can file a lien (CLOL filing) against your property. And if you fall 90 days behind, an HOA can move to foreclose (FORE filing) - over any debt, no matter how small. Clerks check whether the homeowner failed to pay dues, whether the HOA filed a lien, whether the HOA board authorized foreclosure and whether the association has evidence that it made required efforts to notify homeowners about its plans to foreclose. If the answer to those questions is yes, approval is virtually assured, which then results in a final account/final report (FAFR) filing, meaning the homeowner will lose their home to the highest bidder.
 
