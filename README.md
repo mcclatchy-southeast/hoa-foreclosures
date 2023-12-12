@@ -38,9 +38,9 @@ For the analysis, we used [R](https://www.r-project.org/about.html), an open-sou
 
 # Data
 The case file data, including county, case number, plaintiff name and issue type, is available for [download here](https://github.com/mcclatchy-southeast/hoa-foreclosures/tree/main/data).
-Issue types included: CLOL - claim of lien; FORE - foreclosure; FAFR - final account/final report
+Issue types included: CLOL - claim of lien; FORE - foreclosure; FAFR - final account/final report. This file contains all HOA related cases filed from 2018 to 2022 where a claim of lien, foreclosure or final account/final report issue type was filed. 
 
-If you have questions about the data or our stories, please contact David Raynor at draynor@newsobserver.com or Ames Alexander at aalexander@charlotteobserver.com
+If you have questions about the data or the stories in general, please contact David Raynor at draynor@newsobserver.com or Ames Alexander at aalexander@charlotteobserver.com
 
 # Stories
 
