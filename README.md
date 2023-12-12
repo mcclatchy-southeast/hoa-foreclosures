@@ -38,7 +38,7 @@ For the analysis, we used [R](https://www.r-project.org/about.html), an open-sou
 
 If you have questions about the data or our stories, please contact David Raynor at draynor@newsobserver.com or Ames Alexander at aalexander@charlotteobserver.com
 
-#Stories
+# Stories
 
 
                   
