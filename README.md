@@ -43,10 +43,14 @@ Issue types included: CLOL - claim of lien; FORE - foreclosure; FAFR - final acc
 If you have questions about the data or the stories in general, please contact David Raynor at draynor@newsobserver.com or Ames Alexander at aalexander@charlotteobserver.com
 
 # Stories
-[Hopes Foreclosed](https://www.newsobserver.com/news/state/north-carolina/article279816769.html)
-[Deceit, rigged bids and extortion: How HOA foreclosures can open the door to predators](https://www.newsobserver.com/news/state/north-carolina/article281805243.html)
-[‘Once. Twice. Sold for $4,400.’ How HOA foreclosure auctions cost owners their homes](https://www.newsobserver.com/news/state/north-carolina/article282167538.html)
-[Can an HOA sell your home? What NC law says, and how to challenge foreclosures](https://www.newsobserver.com/news/state/north-carolina/article282815028.html)
+[Hopes Foreclosed](https://www.newsobserver.com/news/state/north-carolina/article279816769.html) 
+
+[Deceit, rigged bids and extortion: How HOA foreclosures can open the door to predators](https://www.newsobserver.com/news/state/north-carolina/article281805243.html) 
+
+[‘Once. Twice. Sold for $4,400.’ How HOA foreclosure auctions cost owners their homes](https://www.newsobserver.com/news/state/north-carolina/article282167538.html) 
+
+[Can an HOA sell your home? What NC law says, and how to challenge foreclosures](https://www.newsobserver.com/news/state/north-carolina/article282815028.html) 
+
 
 
 
